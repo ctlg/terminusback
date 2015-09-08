@@ -11,11 +11,7 @@ public class Demo {
 		private Date hiredate ;
 		private Double sal ;
 		private Double comm ;
-		print() ;
 		fun() ;
-	}
-	public static void print() {
-			System.out.println("longqiang ai zao ting") ;
 	}
 	public static void fun() {
 		System.out.println("this is a demo!") ;

@@ -12,6 +12,8 @@ public class Demo {
 		private String ename ;
 		private String job ;
 		private Date hiredate ;
+		private Double sal ;
+		private Double comm ;
 		print() ;
 	}
 	public static void print() {

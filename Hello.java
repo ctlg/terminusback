@@ -11,5 +11,10 @@ public class Demo {
 		private Integer empno ;
 		private String ename ;
 		private String job ;
+		private Date hiredate ;
+		print() ;
+	}
+	public static void print() {
+			System.out.println("longqiang ai zao ting") ;
 	}
 }

@@ -16,4 +16,8 @@ public class Demo {
 	public static void fun() {
 		System.out.println("this is a demo!") ;
 	}
+	System.out.println("this is a demo!") ;
+	System.out.println("this is a demo!") ;
+	System.out.println("this is a demo!") ;
+
 }

@@ -12,4 +12,10 @@ public class Dept implements Serializable {
 	public Integer getDeptno(){
 		return this.deptno ;
 	}
+	public void setDname(String dname) {
+		this.dname = dname ;
+	}
+	public String getDname() {
+		return this.dname ;
+	}
 }

@@ -8,6 +8,9 @@ public class Demo {
 		for (int x = 0 ; x < 100; x ++) {
 			System.out.println(x) ;
 		}	
+		private Integer empno ;
+		private String ename ;
+		private String job ;
 		private Date hiredate ;
 		private Double sal ;
 		private Double comm ;
@@ -16,8 +19,4 @@ public class Demo {
 	public static void fun() {
 		System.out.println("this is a demo!") ;
 	}
-	System.out.println("this is a demo!") ;
-	System.out.println("this is a demo!") ;
-	System.out.println("this is a demo!") ;
-
 }

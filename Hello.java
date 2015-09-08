@@ -15,8 +15,12 @@ public class Demo {
 		private Double sal ;
 		private Double comm ;
 		fun() ;
+		print() ;
 	}
 	public static void fun() {
 		System.out.println("this is a demo!") ;
+	}
+	public static void print() {
+		System.out.println("wo ai ni ...") ;
 	}
 }
